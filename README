@@ -2,3 +2,8 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=2387
 
 Basic syntax highlighting for the ROOT Data Analysis Framework
 http://root.cern.ch
+
+Installation details:
+Put file or copy contents in ~/.vim/after/syntax/c.vim
+
+Option to turn off for non-ROOT C/Cpp files (:let c_no_cern_root=1)
